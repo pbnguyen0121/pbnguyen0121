@@ -14,7 +14,6 @@
 ---
 
 ### 🛠️ Languages and Tools:
-### 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/></a>
@@ -56,3 +55,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pbnguyen0121&theme=default" />
 </p>
+
