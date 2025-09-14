@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I’m currently studying Software Development at Seneca Polytechnic  
-- 🔍 I’m looking for a Web/Full-Stack Developer Internship  
+- 🔍 I’m looking for opportunities as a **Web/Full-Stack Developer Intern, Software Developer Intern, Machine Learning Intern, or AI Tool/Development Intern** 
 - 📂 All my projects are available at: [github.com/pbnguyen0121](https://github.com/pbnguyen0121)  
 - 💬 Ask me about anything related to: Web dev, C++, Python, React  
 - 📫 How to reach me: **pbnguyen0121@gmail.com**  
@@ -55,4 +55,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pbnguyen0121&theme=default" />
 </p>
+
 
